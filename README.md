@@ -25,4 +25,10 @@ https://www.youtube.com/watch?v=niBWh0Xq9Zg
 TECNOLOGÍA LORA Y LORAWAN
 https://www.catsensors.com/es/lorawan/tecnologia-lora-y-lorawan
 
+Bandas de frecuencias del espectro radioeléctrico de uso libre
+https://www.ift.org.mx/espectro-radioelectrico/bandas-de-frecuencias-del-espectro-radioelectrico-de-uso-libre
+
+Implementación de una red LoRa en el ámbito de la Universidad
+Nacional de San Martín
+https://ri.unsam.edu.ar/bitstream/123456789/1806/1/TING%20ESCYT%202018%20BLE-UC.pdf
 ```
