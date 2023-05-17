@@ -21,4 +21,8 @@ https://www.youtube.com/watch?v=7zDRdBmhcgg
 Demostración LoRa punto a punto (P2P) con REYAX RYLR998
 Leon Anavi
 https://www.youtube.com/watch?v=niBWh0Xq9Zg
+
+TECNOLOGÍA LORA Y LORAWAN
+https://www.catsensors.com/es/lorawan/tecnologia-lora-y-lorawan
+
 ```
