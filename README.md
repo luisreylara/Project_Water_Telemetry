@@ -13,4 +13,10 @@ https://www.youtube.com/watch?v=UH346_44M_Y
 Estoy muy SORPRENDIDO con estos módulos LoRa REYAX RYLR998
 Un loco y su tecnolog
 https://www.youtube.com/watch?v=dgsdDb6_5Ks
+
+✅ Módulo Lora Reyax RYLR896 Configuración Por Comandos AT
+CarlosVolt Electrónica y Robótica
+https://www.youtube.com/watch?v=7zDRdBmhcgg
+
+
 ```
