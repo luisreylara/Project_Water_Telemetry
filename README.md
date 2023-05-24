@@ -42,7 +42,8 @@ https://www.thethingsnetwork.org/#workbench
 LoRa (7).: Gateway con RAK 831 & Raspberry Pi (1)
 biblioman09
 https://www.youtube.com/watch?v=5ma4VgYVv40
-
+LoRa (1).: Introducción y conceptos
+https://www.youtube.com/watch?v=qs7Lz9g-mgg&list=PLdsx9TbBHhqfsSrVl0Key9BM9meUgkE5U
 
 
 
