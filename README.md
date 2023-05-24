@@ -36,4 +36,8 @@ Prueba de distancia LoRa con RYLR998 en campo abierto: ¡resultados sorprendente
 Taste The Code
 https://www.youtube.com/watch?v=d9u6QIyR8a8
 
+digikey.com.mx
+https://www.thethingsnetwork.org/#workbench
+
+
 ```
