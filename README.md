@@ -39,5 +39,11 @@ https://www.youtube.com/watch?v=d9u6QIyR8a8
 digikey.com.mx
 https://www.thethingsnetwork.org/#workbench
 
+LoRa (7).: Gateway con RAK 831 & Raspberry Pi (1)
+biblioman09
+https://www.youtube.com/watch?v=5ma4VgYVv40
+
+
+
 
 ```
