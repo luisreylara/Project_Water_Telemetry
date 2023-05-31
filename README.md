@@ -53,5 +53,10 @@ https://www.youtube.com/watch?v=J0J_CSmiqwk
 Clayton Darwin
 Peer-to-Peer LoRa Test: Reyax RYLR998 - ESP32 - MicroPython
 
+How to use RYLR998 LORA module with Arduino
+https://www.hackster.io/mdraber/how-to-use-rylr998-lora-module-with-arduino-020ac4
+How to use RYLR998 LORA module with Arduino
+https://www.youtube.com/watch?v=LiWlPERp1ec&t=654s
+Mario's Ideas
 
 ```
