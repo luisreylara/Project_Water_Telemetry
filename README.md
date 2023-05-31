@@ -59,4 +59,9 @@ How to use RYLR998 LORA module with Arduino
 https://www.youtube.com/watch?v=LiWlPERp1ec&t=654s
 Mario's Ideas
 
+RYLR998 LoRa Module Range Testing
+https://www.youtube.com/watch?v=dzdASqc0R0U
+make2explore Sys
+
+
 ```
