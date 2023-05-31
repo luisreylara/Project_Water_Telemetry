@@ -65,6 +65,7 @@ make2explore Sys
 [Device Overview] Reyax RYLR998 LoRa Module
 https://www.youtube.com/watch?v=UFjA9VwudE0
 make2explore Systems
+https://github.com/make2explore/Reyax-LoRa-Module-RYLR998-Review
 
 UISP Design Center
 https://ispdesign.ui.com/
