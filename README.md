@@ -48,4 +48,10 @@ https://www.youtube.com/watch?v=qs7Lz9g-mgg&list=PLdsx9TbBHhqfsSrVl0Key9BM9meUgk
 Módulos de radio | LoRa de 8 KILOMETROS de COBERTURA | E32 EASY | 433MHz | valen la pena?
 Editronikx
 https://www.youtube.com/watch?v=7naS8w2khWk&t=43s
+
+https://www.youtube.com/watch?v=J0J_CSmiqwk
+Clayton Darwin
+Peer-to-Peer LoRa Test: Reyax RYLR998 - ESP32 - MicroPython
+
+
 ```
