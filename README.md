@@ -69,4 +69,8 @@ https://github.com/make2explore/Reyax-LoRa-Module-RYLR998-Review
 
 UISP Design Center
 https://ispdesign.ui.com/
+
+tesis :DISPOSITIVO LoRa DE COMUNICACIÓN A LARGO ALCANCE
+https://oa.upm.es/44890/1/TFM_JOSE_DANIEL_RODRIGUEZ_MUNCA.pdf
+
 ```
