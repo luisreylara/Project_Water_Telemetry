@@ -72,5 +72,14 @@ https://ispdesign.ui.com/
 
 tesis :DISPOSITIVO LoRa DE COMUNICACIÓN A LARGO ALCANCE
 https://oa.upm.es/44890/1/TFM_JOSE_DANIEL_RODRIGUEZ_MUNCA.pdf
+Objetivo: Evaluar y documentar las características de los transceivers LoRa como dispositivos de comunicación a largo alcance y bajo consumo de energético para aplicaciones del ámbito del desarrollo.
 
+
+https://ojs.unipamplona.edu.co/ojsviceinves/index.php/bistua/article/view/567/529
+Monitoreo de calidad de agua usando red de sensores inalámbricos LPWAN
+915 MHZ RN2903 LORA TECHNOLOGY MOTE
+https://www.microchip.com/en-us/development-tool/dm164139
+$105.00 dlls
+
+https://dspace.ups.edu.ec/bitstream/123456789/20910/1/UPS-GT003366.pdf
 ```
